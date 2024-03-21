@@ -9,3 +9,4 @@ With the main goal of developing a predictive model for body fat association and
 by applying multi regression analysis with a stepwise method.
 
 
+<img width="309" alt="Screenshot 2024-03-21 115321" src="https://github.com/AfifRifaie95/SPSS-Multivariate-Methods-for-Data-Analysis/assets/159521904/13477397-097e-44c2-86cd-86edc67b1485">
