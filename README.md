@@ -10,3 +10,4 @@ by applying multi regression analysis with a stepwise method.
 
 
 <img width="309" alt="Screenshot 2024-03-21 115321" src="https://github.com/AfifRifaie95/SPSS-Multivariate-Methods-for-Data-Analysis/assets/159521904/13477397-097e-44c2-86cd-86edc67b1485">
+<img width="547" alt="Screenshot 2024-03-21 115427" src="https://github.com/AfifRifaie95/SPSS-Multivariate-Methods-for-Data-Analysis/assets/159521904/f677e5c7-1514-43a5-9ed5-0b503d930044">
