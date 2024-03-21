@@ -10,4 +10,5 @@ The purpose of this project is to create a prediction model for body fat associa
 
 <img width="548" alt="image" src="https://github.com/AfifRifaie95/SPSS-Multivariate-Methods-for-Data-Analysis/assets/159521904/c3835b1e-6ae1-4ddf-a428-7a29c1c266e6">
 
-For full PDF report, click the
+
+For full report, click the Final Report PDF.
