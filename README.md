@@ -4,8 +4,6 @@
 
 
 The purpose of this research is to analyze body fat as a dependent variable and related independent variable such as:
-Density, Age, Weight, Height, Neck, Chest, Abdomen, Hip, Thigh, Knee, Ankle, Biceps, Forearm, and Wrist.
-
-Main goal of developing a predictive model for body fat association and estimation.
+Density, Age, Weight, Height, Neck, Chest, Abdomen, Hip, Thigh, Knee, Ankle, Biceps, Forearm, and Wrist with the main goal of developing a predictive model for body fat association and estimation.
 
 
