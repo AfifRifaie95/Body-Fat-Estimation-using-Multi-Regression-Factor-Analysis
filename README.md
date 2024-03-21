@@ -4,6 +4,8 @@
 
 
 The purpose of this research is to analyze body fat as a dependent variable and related independent variable such as:
-biometrics, anthropometrics, and physiological measurements with the main goal of developing a predictive model for body fat association and estimation by applying multi regression analysis with a stepwise method.
+biometrics, anthropometrics, and physiological measurements.
+With the main goal of developing a predictive model for body fat association and estimation 
+by applying multi regression analysis with a stepwise method.
 
 
