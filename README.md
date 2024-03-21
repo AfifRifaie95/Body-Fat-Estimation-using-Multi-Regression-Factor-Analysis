@@ -1,4 +1,4 @@
-# Body Fat Analaysis using Multi Regression & Factor in SPSS  
+# Body Fat Estimation using Multi Regression & Factor Analysis in SPSS  
 
 ![ezgif-6-a6c584d0d8](https://github.com/AfifRifaie95/SPSS-Multivariate-Methods-for-Data-Analysis/assets/159521904/cfe221ec-39ca-42ea-bf7d-8eace4887cbe)
 
