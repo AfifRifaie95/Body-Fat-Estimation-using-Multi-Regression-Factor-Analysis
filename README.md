@@ -1,13 +1,13 @@
-# Body Fat Estimation using Multi Regression & Factor Analysis in SPSS  
+# Body Fat Estimation using Multi Linear Regression (MLR) & Factor Analysis in SPSS  
 
 ![ezgif-6-a6c584d0d8](https://github.com/AfifRifaie95/SPSS-Multivariate-Methods-for-Data-Analysis/assets/159521904/cfe221ec-39ca-42ea-bf7d-8eace4887cbe)
 
-# Multi Regression Analysis
+# Multi Linear Regression Analysis
 ### Project Overview
 The purpose of this research is to apply multi regression analysis with a stepwise method to analyze body fat as a dependent variable and related independent variable such as Density, Age, Weight, Height, Neck, Chest, Abdomen, Hip, Thigh, Knee, Ankle, Biceps, Forearm, and Wrist with the main goal of developing a predictive model for body fat association and estimation.
 
 ### Table of Contents
-- [Multi Regression Analysis](#Multi-Regression-Analysis)
+- [Multi Regression Linear Analysis](#Multi-Regression-Linear-Analysis)
 - [Factor Analysis](#Factor-Analysis)
 
 ### Research Objectives
