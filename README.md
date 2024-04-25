@@ -132,7 +132,8 @@ The goal of this study was to use a Multiple Linear Regression model with a step
 The regression model was found to be significant, with a R Square value of 73.5%, implying that the four relevant predictors: abdomen, weight, wrist, and forearm, explain approximately 73.5% of the variation in body fat. The positive correlation coefficient (R) of 0.857 indicates a strong positive association between the predictor variables and body fat. The ANOVA test further confirmed the significance of the model.
 
 
-### Objective 1: The Multiple Linear Regression model was successfully developed using stepwise regression to predict body fat percentage with selected variables (Abdomen, Weight, Wrist, Forearm).
+### Objective 1
+The Multiple Linear Regression model was successfully developed using stepwise regression to predict body fat percentage with selected variables (Abdomen, Weight, Wrist, Forearm).
 
 
 - Hypothesis 1.1: Supported, as significant relationships were found between body fat percentage and the independent variables in the model.
@@ -140,7 +141,8 @@ The regression model was found to be significant, with a R Square value of 73.5%
 - Hypothesis 1.3: Supported, as stepwise regression resulted in a model that includes significant predictor variables for body fat percentage.
 
 
-### Objective 2: The significance and impact of individual predictor variables in the model were assessed.
+### Objective 2
+The significance and impact of individual predictor variables in the model were assessed.
 
 
 - Hypothesis 2.1: Partially supported, as not all original independent variables were included in the final model, indicating that not all significantly contribute to the prediction of body fat percentage.
