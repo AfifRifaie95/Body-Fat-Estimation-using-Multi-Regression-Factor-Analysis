@@ -163,7 +163,7 @@ The findings of this study have important implications for understanding and man
 ### Limitation
 
 
-Secondary data were used in the study, which means they may not be 100% accurate or full and the model suggests that the predictor variables and the dependent variable are linked in a straight line, but this might not always be the case.
+Secondary data were used in the study, which means they may not be 100% accurate and the model suggests that the predictor variables and the dependent variable are linked in a straight line, but this might not always be the case.
 
 
 # Factor Analysis
